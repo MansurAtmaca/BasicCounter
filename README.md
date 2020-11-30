@@ -1,6 +1,6 @@
-# deneme
+# Basic Counter
 
-A new Flutter project.
+It's a basic counter. 
 
 ## Getting Started
 
